@@ -67,13 +67,6 @@ Run the demo app
 npm run dev
 
 
-Open Storybook
-
-npm run storybook
-# If 6006 is busy:
-npm run storybook -- -p 6007 --no-open
-
-
 Run tests
 
 npm run test
